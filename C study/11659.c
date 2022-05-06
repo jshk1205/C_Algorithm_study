@@ -3,8 +3,8 @@
 
 int main() {
 	int n, m, num1, num2;
-	int i = 0, k = 0, temp[100001] = { 0 };
-	int arr_n[100001] = { 0 };
+	int i = 0, k = 0;
+	int arr_n[100001] = { 0 }, temp[100001] = { 0 };
 
 	scanf("%d %d", &n, &m);
 
